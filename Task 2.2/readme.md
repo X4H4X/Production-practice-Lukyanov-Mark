@@ -30,9 +30,8 @@
 #### 3. Инициализация и создание родительской страницы «Календарь»
 
 <p align="center">
-  ![Uploading image.png…]()
-
-  
+ <img width="706" height="463" alt="image" src="https://github.com/user-attachments/assets/3caeae91-9419-4f18-8c2c-5feb4138efae" />
+ <img width="1109" height="735" alt="image" src="https://github.com/user-attachments/assets/87bb543f-ae13-44d1-8800-0c0fefcb6a08" />
   <br>
   <em>Рисунок 3. Конфигурирование параметров новой страницы в модуле Add Page</em>
 </p>
