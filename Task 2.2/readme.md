@@ -31,6 +31,7 @@
 
 <p align="center">
  <img width="706" height="463" alt="image" src="https://github.com/user-attachments/assets/3caeae91-9419-4f18-8c2c-5feb4138efae" />
+ <img width="2227" height="448" alt="image" src="https://github.com/user-attachments/assets/af64baa8-d560-4cb5-b547-4ae78a52ca2f" />
  <img width="1109" height="735" alt="image" src="https://github.com/user-attachments/assets/87bb543f-ae13-44d1-8800-0c0fefcb6a08" />
   <br>
   <em>Рисунок 3. Конфигурирование параметров новой страницы в модуле Add Page</em>
@@ -38,20 +39,10 @@
 
 ---
 
-#### 4. Настройка отображения списка событий и структуры коллекции
-
-<p align="center">
-  
-  
-  <br>
-  <em>Рисунок 4. Интерфейс родительского раздела «Научные мероприятия кафедры ИТиЭО»</em>
-</p>
-
----
-
 #### 5. Наполнение контентом: Создание дочерней страницы с приглашением
 
 <p align="center">
+  <img width="692" height="448" alt="image" src="https://github.com/user-attachments/assets/8bb316a3-e2fc-471e-8e77-bebaca9748de" />
   <br>
   <em>Рисунок 5. Заполнение метаданных и текста информационного письма конференции</em>
 </p>
@@ -61,7 +52,7 @@
 #### 6. Результат работы плагина во фронтенде (Публичная часть сайта)
 
 <p align="center">
-  <img src="media/image6.png" width="750" alt="Финальный результат">
+  <img width="974" height="1178" alt="image" src="https://github.com/user-attachments/assets/1229905c-d82e-4443-b7af-c894b0666080" />
   <br>
   <em>Рисунок 6. Центрированное и минималистичное отображение приглашения на конференцию</em>
 </p>
