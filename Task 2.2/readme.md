@@ -31,6 +31,7 @@
 
 <p align="center">
  <img width="706" height="463" alt="image" src="https://github.com/user-attachments/assets/3caeae91-9419-4f18-8c2c-5feb4138efae" />
+ <img width="1316" height="554" alt="image" src="https://github.com/user-attachments/assets/6175d8cb-fd11-436b-8e57-677112abcb14" />
  <img width="2227" height="448" alt="image" src="https://github.com/user-attachments/assets/af64baa8-d560-4cb5-b547-4ae78a52ca2f" />
  <img width="1109" height="735" alt="image" src="https://github.com/user-attachments/assets/87bb543f-ae13-44d1-8800-0c0fefcb6a08" />
   <br>
@@ -43,7 +44,7 @@
 
 <p align="center">
   <img width="692" height="448" alt="image" src="https://github.com/user-attachments/assets/8bb316a3-e2fc-471e-8e77-bebaca9748de" />
- 
+  <img width="1280" height="659" alt="image" src="https://github.com/user-attachments/assets/c78e4d84-c9ff-454d-9f2c-194e5735edfd" />
   <br>
   <em>Рисунок 5. Заполнение метаданных и текста информационного письма конференции</em>
 </p>
