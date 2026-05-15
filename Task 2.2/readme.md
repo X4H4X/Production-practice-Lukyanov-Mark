@@ -27,7 +27,7 @@
 
 ---
 
-#### 3. Инициализация и создание родительской страницы «Календарь»
+#### 2. Инициализация и создание родительской страницы «Календарь»
 
 <p align="center">
  <img width="706" height="463" alt="image" src="https://github.com/user-attachments/assets/3caeae91-9419-4f18-8c2c-5feb4138efae" />
@@ -40,7 +40,7 @@
 
 ---
 
-#### 5. Наполнение контентом: Создание дочерней страницы с приглашением
+#### 3. Наполнение контентом: Создание дочерней страницы с приглашением
 
 <p align="center">
   <img width="692" height="448" alt="image" src="https://github.com/user-attachments/assets/8bb316a3-e2fc-471e-8e77-bebaca9748de" />
@@ -51,7 +51,7 @@
 
 ---
 
-#### 6. Результат работы плагина во фронтенде (Публичная часть сайта)
+#### 4. Результат работы плагина во фронтенде (Публичная часть сайта)
 
 <p align="center">
   <img width="974" height="1178" alt="image" src="https://github.com/user-attachments/assets/1229905c-d82e-4443-b7af-c894b0666080" />
