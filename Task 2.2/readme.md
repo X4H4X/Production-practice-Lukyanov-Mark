@@ -20,7 +20,7 @@
 #### 1. Установка плагина через консоль или маркетплейс Grav Admin
 
 <p align="center">
-  <img src="media/image1.png" width="750" alt="Grav Admin Dashboard">
+  <img width="916" height="329" alt="image" src="https://github.com/user-attachments/assets/0e95d442-a161-4527-a3bc-5d63c10c9c89" />
   <br>
   <em>Рисунок 1. Панель управления Grav Admin до установки расширения</em>
 </p>
