@@ -43,6 +43,7 @@
 
 <p align="center">
   <img width="692" height="448" alt="image" src="https://github.com/user-attachments/assets/8bb316a3-e2fc-471e-8e77-bebaca9748de" />
+ 
   <br>
   <em>Рисунок 5. Заполнение метаданных и текста информационного письма конференции</em>
 </p>
